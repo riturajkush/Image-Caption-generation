@@ -13,7 +13,7 @@ Flickr8k_text.zip contains descriptions of images (40,460)
 <br>
 
 <p align="center">
-	<img src='test/example_001.jpg' alt='Test Image'> 
+	<img src='example_001.jpg' alt='Test Image'> 
 	<br/>
 	<i>
 		black dog is running through the water
