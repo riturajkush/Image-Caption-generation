@@ -6,7 +6,7 @@ Flickr8k_Dataset.zip contains all images (8092 images)
 Flickr8k_text.zip contains descriptions of images (40,460)
 
 
-###Model architecture
+### Model architecture
 
 <br>
 <img src ="model.png">
@@ -20,7 +20,7 @@ Flickr8k_text.zip contains descriptions of images (40,460)
 	</i>
 </p>
 
-# About Me
+### About Me
 
 You can check my other projects on:
 * [Github](https://github.com/riturajkush)
